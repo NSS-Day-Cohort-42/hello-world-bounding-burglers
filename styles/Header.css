@@ -1,17 +1,21 @@
+.headContainer {
+    display: flex;
+    flex-direction: row;
+}
 .countryFlag {
-    border: 3px solid black;
+    display: flex;
+    justify-content: left;
     height:230;
     width:403;
 }
 
 .siteHeader {
-    border: 3px solid black;
+    height:230;
+    max-width: 100%;
 }
 
 .countryName {
-    border: 5px solid black;
 }
 
 .descriptiveParagraph {
-    border: 3px solid black;
 }

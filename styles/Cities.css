@@ -1,17 +1,13 @@
 .cities {
-    border: 3px solid black;
 }
 
 .city {
-    border: 3px solid black;
 }
 
 .city__name {
-    border: 3px solid black;
 }
 
 .city__image {
-    border: 3px solid black;
     height:230;
     width:403;
 }
