@@ -1,26 +1,21 @@
 .headContainer {
     display: flex;
     flex-direction: row;
-    margin-right: 1em;
 }
 .countryFlag {
     display: flex;
     justify-content: left;
-    height:230px;
-    width:403px;
-    margin-right: 1em;
+    height:230;
+    width:403;
 }
 
 .siteHeader {
-    height:230px;
-    width: 100%;
+    height:230;
+    max-width: 100%;
 }
 
 .countryName {
-    text-align: center;
 }
 
 .descriptiveParagraph {
-    text-align: center;
-    margin: 50px;
 }
