@@ -1,4 +1,7 @@
-@import "./classes.css";
+@import Header.css;
+@import Landmarks.css;
+@import Head.css;
+@import Cities.css;
 
 a {
     text-decoration: none;

@@ -1,0 +1,17 @@
+.landmarks {
+    border: 3px solid black;
+}
+
+.landmark {
+    border: 3px solid black;
+}
+
+.landmark__name {
+    border: 3px solid black;
+}
+
+.landmark__image {
+    border: 3px solid black;
+    height:230;
+    width:403;
+}
