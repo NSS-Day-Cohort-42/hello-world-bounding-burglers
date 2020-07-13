@@ -1,6 +1,9 @@
+.landmark {
+
+}
 .landmarks {
     background-color: goldenrod;
-    border: groove black 3px;
+    border: groove 3px;
 }
 
 .landmark__name {
