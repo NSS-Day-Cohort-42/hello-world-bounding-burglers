@@ -1,6 +1,7 @@
-.heads {
+.headsCard {
     background-color: goldenrod;
     border: groove 3px;
+    margin-top: .5rem;
 }
 
 .heads__name {
@@ -11,5 +12,4 @@
 .heads__image {
     height:230px;
     width:403px;
-    border: groove 3px;
 }
