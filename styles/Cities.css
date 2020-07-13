@@ -1,13 +1,18 @@
 .cities {
+    background-color: goldenrod;
+    border: groove black 3px;
 }
 
 .city {
 }
 
 .city__name {
+    text-align: center;
+    padding: 10px;
 }
 
 .city__image {
     height:230;
     width:403;
+    border: groove 3px;
 }

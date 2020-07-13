@@ -3,9 +3,6 @@
 @import url("Head.css");
 @import url("Cities.css");
 
-html {
-    font-family: arial;
-}
 a {
     text-decoration: none;
 }

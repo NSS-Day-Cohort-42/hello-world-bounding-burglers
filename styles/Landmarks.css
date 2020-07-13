@@ -1,13 +1,15 @@
 .landmarks {
-}
-
-.landmark {
+    background-color: goldenrod;
+    border: groove black 3px;
 }
 
 .landmark__name {
+        text-align: center;
+        padding: 10px;
 }
 
 .landmark__image {
-    height:230;
-    width:403;
+    height:230px;
+    width:403px;
+    border: groove 3px;
 }
