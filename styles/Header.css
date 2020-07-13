@@ -1,0 +1,21 @@
+.headContainer {
+    display: flex;
+    flex-direction: row;
+}
+.countryFlag {
+    display: flex;
+    justify-content: left;
+    height:230;
+    width:403;
+}
+
+.siteHeader {
+    height:230;
+    max-width: 100%;
+}
+
+.countryName {
+}
+
+.descriptiveParagraph {
+}
