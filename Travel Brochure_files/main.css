@@ -3,9 +3,6 @@
 @import url("Head.css");
 @import url("Cities.css");
 
-html {
-    font-family: arial;
-}
 a {
     text-decoration: none;
 }
@@ -32,5 +29,4 @@ ul {
 display:flex;
 flex-direction: row;
 justify-content: space-evenly;
-margin: 10px;
 }
