@@ -1,9 +1,9 @@
 .cities {
-    background-color: goldenrod;
-    border: groove 3px;
 }
 
 .city {
+    background-color: goldenrod;
+    border: groove 3px;
 }
 
 .city__name {
@@ -14,5 +14,4 @@
 .city__image {
     height:230;
     width:403;
-    border: groove 3px;
 }
