@@ -1,21 +1,21 @@
 const cityCollection = [
 
     {
-title: "",
-image: "",
+title: "Rome",
+image: "./Images/Italy/rome.jpeg",
 description: ""
     },
 
     {
-title: "",
-image: "",   
+title: "Venice",
+image: "./Images/Italy/venice.jpg",   
 description: ""
     },
 
     {
-title: "",
+title: "Milan",
 description: "",
-image: ""
+image: "./Images/Italy/milan.jpg"
     }
 ]
 

@@ -1,21 +1,21 @@
 const landmarkCollection = [
 
     {
-title: "",
-image: "",
+title: "Coliseum",
+image: "./Images/Italy/coliseum.jpg",
 description: ""
     },
 
     {
-title: "",
-image: "",   
+title: "Pantheon",
+image: "./Images/Italy/pantheon.jpeg",   
 description: ""
     },
 
     {
-title: "",
+title: "Leaning Tower of Pisa",
 description: "",
-image: ""
+image: "./Images/Italy/ltpisa.jpg"
     }
 ]
 
