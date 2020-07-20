@@ -7,7 +7,7 @@ export const cityList = () => {
 
     const cities = useCity()
 
-    let cityHTMLRepresentations = ""
+    let cityHTMLRepresentations = "";
     for(const currentCityObj of cities){
         cityHTMLRepresentations += cityHTML(currentCityObj)
     }
@@ -15,7 +15,7 @@ export const cityList = () => {
    
     contentElement.innerHTML += `
         <article class="cities">
-             ${cityTMLRepresentations}
+             ${cityHTMLRepresentations}
         </article>
     `
 }

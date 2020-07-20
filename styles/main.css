@@ -35,8 +35,8 @@ body {
 .big__container {
 display:flex;
 flex-direction: row;
-justify-content: space-evenly;
-margin: 10px;
+justify-content: space-between;
+
 }
 
 .image__splash {
@@ -46,5 +46,9 @@ margin: 10px;
     border-radius: 2%;
     
 }
-/* .travel__Brochure {
-    */
+/* .big__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+} */

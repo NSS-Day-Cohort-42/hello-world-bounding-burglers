@@ -1,6 +1,6 @@
-.landmark {
+/* .landmark {
 
-}
+} */
 .landmarks {
     background-color: goldenrod;
     border: groove 3px;
@@ -13,5 +13,5 @@
 
 .landmark__image {
     height:230px;
-    width:403px;
+    width:300px;
 }
