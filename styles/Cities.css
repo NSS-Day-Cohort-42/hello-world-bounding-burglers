@@ -1,11 +1,9 @@
 .cities {
-  
 }
 
 .city {
     background-color: goldenrod;
     border: groove 3px;
-    margin-top: .5rem;
 }
 
 .city__name {

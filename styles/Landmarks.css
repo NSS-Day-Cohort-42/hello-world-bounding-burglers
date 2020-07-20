@@ -1,8 +1,9 @@
+.landmark {
 
+}
 .landmarks {
-  background-color: goldenrod;
+    background-color: goldenrod;
     border: groove 3px;
-    margin-top: .5rem;
 }
 
 .landmark__name {
