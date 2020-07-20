@@ -1,21 +1,21 @@
 const headsCollection = [
 
     {
-title: "",
-image: "",
-description: ""
+title: "Ambassador Toburoro Tito",
+image: "./Images/Kiribati/HeadsOfState/AmbassadorToburoroTito.png",
+description: "All hail"
     },
 
     {
-title: "",
-image: "",   
-description: ""
+title: "President Taneti Maamu",
+image: "./Images/Kiribati/HeadsOfState/PresidentTanetiMaamau.jpg",   
+description: "Hail Hail"
     },
 
     {
-title: "",
-description: "",
-image: ""
+title: "Vice President Teuea Toatu",
+image: "./Images/Kiribati/HeadsOfState/VicePresidentTeueaToatu.jpg",
+description: "Check him out"
     }
 ]
 
