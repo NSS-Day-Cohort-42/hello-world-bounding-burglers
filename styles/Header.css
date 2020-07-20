@@ -1,6 +1,7 @@
 .headContainer {
     display: flex;
     flex-direction: row;
+    margin-right: 1em;
 }
 .countryFlag {
     display: flex;
@@ -15,7 +16,10 @@
 }
 
 .countryName {
+    text-align: center;
 }
 
 .descriptiveParagraph {
+    text-align: center;
+    margin: 50px;
 }

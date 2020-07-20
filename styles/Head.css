@@ -1,7 +1,12 @@
-.heads {
+.headsCard {
+    background-color: goldenrod;
+    border: groove 3px;
+    margin-top: .5rem;
 }
 
 .heads__name {
+    text-align: center;
+    padding: 10px;
 }
 
 .heads__image {
