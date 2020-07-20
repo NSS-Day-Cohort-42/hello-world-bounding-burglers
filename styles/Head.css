@@ -1,10 +1,16 @@
+
 .heads {
+    background-color: goldenrod;
+    border: groove 3px;
 }
 
 .heads__name {
+    text-align: center;
+    padding: 10px;
 }
 
 .heads__image {
-    height:230;
-    width:403;
+    height:230px;
+    width:403px;
+    border: groove 3px;
 }
