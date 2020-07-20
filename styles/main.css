@@ -7,16 +7,20 @@ html {
     font-family: arial;
 }
 a {
-    text-decoration: none;
+    text-decoration: transparent;
 }
 
 ul {
     list-style-type: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
+    font-style: normal;
+    opacity: 80%;
   
 }
 
+body {
+    background-color: white;
+}
 .list__container {
   display: flex;
   justify-content: space-evenly;
@@ -34,3 +38,13 @@ flex-direction: row;
 justify-content: space-evenly;
 margin: 10px;
 }
+
+.image__splash {
+    width:100%;
+    height: auto;
+    opacity: 75%;
+    border-radius: 2%;
+    
+}
+/* .travel__Brochure {
+    */
