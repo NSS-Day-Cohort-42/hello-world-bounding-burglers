@@ -15,7 +15,7 @@ export const cityList = () => {
    
     contentElement.innerHTML += `
         <article class="cities">
-             ${cityTMLRepresentations}
+             ${cityHTMLRepresentations}
         </article>
     `
 }
