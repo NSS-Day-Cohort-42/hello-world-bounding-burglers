@@ -1,21 +1,21 @@
 const cityCollection = [
 
     {
-title: "",
-image: "",
+title: "Mumbai",
+image: "Images/India/Mumbai_skyline_BWSL.jpg",
 description: ""
     },
 
     {
-title: "",
-image: "",   
+title: "New Delhi",
+image: "Images/India/Gateway_of_India.jpg",   
 description: ""
     },
 
     {
-title: "",
+title: "Trivandrum",
+image: "Images/India/kerala.jpg",
 description: "",
-image: ""
     }
 ]
 

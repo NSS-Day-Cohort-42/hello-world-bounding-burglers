@@ -1,21 +1,21 @@
 const headsCollection = [
 
     {
-title: "",
-image: "",
+title: "uddhav thackeray",
+image: "./Images/India/thackery.jpg",
 description: ""
     },
 
     {
-title: "",
-image: "",   
+title: "Lt. Governor Anil Baijal",
+image: "./Images/India/kerala gov.jpg",   
 description: ""
     },
 
     {
-title: "",
+title: "Pinarayi Vijaya",
 description: "",
-image: ""
+image: "./Images/India/kerala guy.jpg"
     }
 ]
 

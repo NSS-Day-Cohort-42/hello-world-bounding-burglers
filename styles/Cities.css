@@ -1,14 +1,19 @@
 .city {
-    background-color: goldenrod;
-    border: groove 3px;
+  border: groove 3px;
+  margin: 4px;
+  background-color: goldenrod;
+  text-align: center;
 }
 
 .city__name {
-    text-align: center;
-    padding: 10px;
+  text-align: center;
+  padding: 10px;
 }
-
 .city__image {
-    height:230px;
-    width:403px;
+  height: 230px;
+  width: 300px;
 }
+/* .city__container {
+  display: flex;
+  justify-content: center;
+} */
