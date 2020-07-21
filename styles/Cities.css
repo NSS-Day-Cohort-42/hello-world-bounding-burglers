@@ -1,20 +1,26 @@
-.city {
-  border: groove 3px;
-  margin: 4px;
-  background-color: goldenrod;
-  text-align: center;
-  padding: 10px;
+.cities{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .city__name {
   text-align: center;
   padding: 10px;
 }
+
+.city {
+  border: groove 3px;
+  margin: 10px;
+  background-color: goldenrod;
+  text-align: center;
+}
+
+
 .city__image {
   height: 230px;
   width: 300px;
 }
-/* .city__container {
-  display: flex;
-  justify-content: center;
-} */
+
+

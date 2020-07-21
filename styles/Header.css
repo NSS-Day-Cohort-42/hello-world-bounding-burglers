@@ -23,3 +23,11 @@
     text-align: center;
     margin: 50px;
 }
+
+button {
+    width: 75px;
+    height: 30px;
+    border-radius: 7%;
+    background-color: rgb(226, 182, 123);
+    opacity: 75%;
+}

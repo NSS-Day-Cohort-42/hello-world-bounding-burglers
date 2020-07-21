@@ -1,28 +1,24 @@
 .heads {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
     margin: 10px;
-    padding: 10px;
 }
-.heads__card {
-    border: groove 3px;
-    margin: 10px;
-    background-color: goldenrod;
-    text-align: center;
-}
+
 .heads__name {
     text-align: center;
     padding: 10px;
 }
 
+.heads__card {
+    background-color: goldenrod ;
+    border: groove 3px;
+    text-align: center;
+    margin: 10px;
+    margin-top: 10px;
+}
+
 .heads__image {
     height:230px;
     width:300px;
-   
-}
-
-button {
-    width: 75px;
-    height: 30px;
-    border-radius: 7%;
-    background-color: rgb(226, 182, 123);
-    opacity: 75%;
 }
