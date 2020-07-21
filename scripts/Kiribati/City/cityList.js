@@ -1,5 +1,5 @@
-import {useCity} from "./cityDataProvider.js"
-import {cityHTML} from "./cityHTMLConverter.js"
+import { useCity } from "./cityDataProvider.js"
+import { cityHTML } from "./cityHTMLConverter.js"
 
 export const cityList = () => {
    
@@ -15,7 +15,7 @@ export const cityList = () => {
    
     contentElement.innerHTML += `
         <article class="cities">
-             ${cityTMLRepresentations}
+             ${cityHTMLRepresentations}
         </article>
     `
 }
