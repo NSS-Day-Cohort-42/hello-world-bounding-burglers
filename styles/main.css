@@ -32,12 +32,6 @@ body {
     background-color: #B3B5B3;
 }
 
-.big__container {
-display:flex;
-flex-direction: row;
-justify-content: space-between;
-
-}
 
 .image__splash {
     width:100%;
@@ -46,9 +40,11 @@ justify-content: space-between;
     border-radius: 2%;
     
 }
-/* .big__container {
+.big__container {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin: 10px;
-} */
+    align-items: center;
+    margin: 20px;
+    
+}   

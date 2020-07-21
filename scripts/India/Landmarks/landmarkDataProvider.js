@@ -14,7 +14,7 @@ image: "./Images/India/shutterstock-redfort1.webp",
 
     {
 title: "Sri Padmanabhaswamy Temple",
-image: "./Images/"
+image: "./Images/India/1tvm-aps-temple-28-1467108823.jpg"
     }   
 ]   
 
