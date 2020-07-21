@@ -5,3 +5,4 @@ export const cityHTML = (cityObj) => {
       <div class="city__description">${cityObj.description}</div>
     </section>`
     }
+    

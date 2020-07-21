@@ -1,21 +1,21 @@
 const headsCollection = [
 
     {
-title: "",
-image: "",
+title: "President: Sergio Mattarella",
+image: "./Images/Italy/italyPresident.jpg",
 description: ""
     },
 
     {
-title: "",
-image: "",   
+title: "Prime Minister: Giuseppe Conte",
+image: "./Images/Italy/italyPrimeminister.jpg",   
 description: ""
     },
 
     {
-title: "",
+title: "Senate President: Maria Elisabetta Alberti Casellati",
 description: "",
-image: ""
+image: "./Images/Italy/italySenatePres.jpg"
     }
 ]
 
