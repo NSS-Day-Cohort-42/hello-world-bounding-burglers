@@ -1,22 +1,22 @@
-
-.landmark {
-    background-color: goldenrod;
-    border: groove 3px;
-  
+.landmarks {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin: 10px;
 } 
 
 .landmark__name {
-        text-align: center;
-        padding: 10px;
+    text-align: center;
+    padding: 10px;
 } 
 
-.landmark__image {
-    height:230px;
-    width:300px; 
-}
 .landmark__card {
     background-color: goldenrod ;
     border: groove 3px;
-    margin-top: 10px;
     text-align: center;
+    margin: 10px;
+}
+.landmark__image {
+    height:230px;
+    width:300px; 
 }

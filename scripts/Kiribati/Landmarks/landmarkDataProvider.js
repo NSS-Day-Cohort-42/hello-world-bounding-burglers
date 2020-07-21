@@ -3,18 +3,18 @@ const landmarkCollection = [
     {
 title: "Butaritari",
 image: "./Images/Kiribati/Landmarks/Butaritari.jpg",
-description: "This is the place"
+description: ""
     },
 
     {
 title: "Christmas Island",
 image: "./Images/Kiribati/Landmarks/ChristmasIsland.jpg",   
-description: "No this is"
+description: ""
     },
 
     {
 title: "Tarawa Island",
-description: "Description",
+description: "",
 image: "./Images/Kiribati/Landmarks/TarawaAtoll.jpg"
     }
 ]

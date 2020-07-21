@@ -3,19 +3,19 @@ const cityCollection = [
     {
 title: "Betio Village",
 image: "./Images/Kiribati/Cities/BetioVillage.jpg",
-description: "Betio Village is a place."
+description: ""
     },
 
     {
 title: "Bikenibeu",
 image: "./Images/Kiribati/Cities/Bikenibeu.jpg",   
-description: "Bikenibeu is a place."
+description: ""
     },
 
     {
 title: "South Tarawa",
 image: "./Images/Kiribati/Cities/SouthTarawa.jpg",
-description: "South Tarawa is a place"
+description: ""
     }
 ]
 
