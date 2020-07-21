@@ -1,6 +1,6 @@
 export const headsHTML = (headsObj) => {
       return `<section class="heads__card">
-      <div class="heads__title">${headsObj.title}</div>
+      <div class="heads__name">${headsObj.title}</div>
      <div><img class="heads__image" src="${headsObj.image}" /></div>
       <div class="heads__description">${headsObj.description}</div>
     </section>`
